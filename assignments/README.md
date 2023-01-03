@@ -1,2 +1,3 @@
-Folder 202? contains helper code for the problems assigned that year. 
+# ME459 
+Folder with helper code for problems assigned for homework. 
 
