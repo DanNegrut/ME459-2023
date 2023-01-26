@@ -34,7 +34,7 @@ If any part of the above procedure fails, email one of your TAs immediately.
 ### Login Gitlab
 1. Access the GitLab instance by opening [https://git.doit.wisc.edu/](https://git.doit.wisc.edu/) with your browser.
 1. Login using the bottom-right button, the UW-Madison NetID login option.
-1. Create your HW repo as instructed in class. It should be named `repo459`.
+1. Create your HW repo as discussed in class. It should be named `repo459`.
 1. Add all instructors as collaborators for the repo you created. The instructors need at least Reporter access, but it is safe to give higher access such as Maintainer to them.
 1. Clone your HW repo somewhere, such as your local machine, so you can work on it. You may need to set up your Personal Access Token to clone with HTTPS.
 
