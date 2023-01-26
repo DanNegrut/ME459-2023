@@ -39,7 +39,7 @@ If any part of the above procedure fails, email one of your TAs immediately.
 1. Clone your HW repo somewhere, such as your local machine, so you can work on it. You may need to set up your Personal Access Token to clone with HTTPS.
 
 ### Turning in Homework
-All source code files should be located in the appropriate `HWXX` directory with no subdirectories. We will grade the latest commit on the `main` branch as cloned at the due time of the assignment. If you have any doubt about what will be received for grading, you can clone a new copy of your repo and you will see exactly what we will see for grading.
+All source code files should be located in the appropriate `HWXX` directory with no subdirectories (here XX will be 01, 02, 03, etc.) We will grade the latest commit on the `main` branch as cloned at the due time of the assignment. If you have any doubt about what will be received for grading, you can clone a new copy of your repo in some other folder and your machine and you will see exactly what we will see for grading.
 
 ---
 
@@ -70,11 +70,11 @@ If you wish to make sure you see what you want us to see after you submit, you c
 git clone your_hw_repo_url hw_check
 cd hw_check
 ```
-Then, look through the contents of `hw_check` this is exactly what we will see for grading, no more, no less. Any *code* files asked for in the homework must be in here and correctly named with the correct file structure according to the assignment header. Canvas submissions of code are not a backup and will be ignored. Things like plots and written answers go to Canvas.
+Then, look through the contents of `hw_check` - this is exactly what we will see for grading, no more, no less. Any *code* files asked for in the homework must be in here and correctly named with the correct file structure according to the assignment header. Canvas submissions of code are not a backup and will be ignored. Things like plots and written answers should go to Canvas.
 
 
 #### Typical Workflow
-1. Edit and add files until you reach a good milestone
+1. Edit and add files until you reach a good milestone.
 1. `git add` modified and new files
 1. `git commit` to save the milestone
 1. `git push` to update the remote
