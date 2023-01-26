@@ -36,10 +36,12 @@ If any part of the above procedure fails, email one of your TAs immediately.
 1. Login using the bottom-right button, the UW-Madison NetID login option.
 1. Create your HW repo as discussed in class. It should be named `repo459`.
 1. Add all instructors as collaborators for the repo you created. The instructors need at least Reporter access, but it is safe to give higher access such as Maintainer to them.
-1. Clone your HW repo somewhere, such as your local machine, so you can work on it. You may need to set up your Personal Access Token to clone with HTTPS.
+1. Clone your HW repo on your machine, so you can start changing the files in your repo. You may need to set up your Personal Access Token to clone with HTTPS. 
+   
+If you run into issues, please post questions on Piazza and do not wait for office hours
 
 ### Turning in Homework
-All source code files should be located in the appropriate `HWXX` directory with no subdirectories (here XX will be 01, 02, 03, etc.) We will grade the latest commit on the `main` branch as cloned at the due time of the assignment. If you have any doubt about what will be received for grading, you can clone a new copy of your repo in some other folder and your machine and you will see exactly what we will see for grading.
+All source code files should be located in the appropriate `HWXX` directory with no subdirectories (here XX will be 01, 02, 03, etc., changing as we move from assignment to assignment). We will grade the latest commit on the `main` branch as cloned at the due time of the assignment. If you have any doubt about what will be received for grading, you can clone a new copy of your repo in some other folder and your machine and you will see exactly what we will see for grading.
 
 ---
 
@@ -74,9 +76,9 @@ Then, look through the contents of `hw_check` - this is exactly what we will see
 
 
 #### Typical Workflow
-1. Edit and add files until you reach a good milestone.
-1. `git add` modified and new files
-1. `git commit` to save the milestone
-1. `git push` to update the remote
+1. Use the IDE of choice to edit and add files until you reach a good milestone.
+1. `git add` any modified and new files
+1. `git commit` to save the milestone (take a snapshot of your working directory)
+1. `git push` to push your changes into the repo
 1. Repeat until you're done with the homework tasks
 1. Check your homework submission
