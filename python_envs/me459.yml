@@ -1,0 +1,10 @@
+name: me459
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - matplotlib
+  - numpy
+  - pandas
+  - scipy
+prefix: /usr/local/envs/me459
