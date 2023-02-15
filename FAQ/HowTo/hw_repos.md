@@ -41,7 +41,7 @@ If any part of the above procedure fails, email one of your TAs immediately.
 If you run into issues, please post questions on Piazza and do not wait for office hours
 
 ### Turning in Homework
-All source code files should be located in the appropriate `HWXX` directory with no subdirectories (here XX will be 01, 02, 03, etc., changing as we move from assignment to assignment). We will grade the latest commit on the `main` branch as cloned at the due time of the assignment. If you have any doubt about what will be received for grading, you can clone a new copy of your repo in some other folder and your machine and you will see exactly what we will see for grading.
+All source code files should be located in the appropriate `AXX` directory with no subdirectories (here XX will be 01, 02, 03, etc., changing as we move from assignment to assignment). We will grade the latest commit on the `main` branch as cloned at the due time of the assignment. If you have any doubt about what will be received for grading, you can clone a new copy of your repo in some other folder and your machine and you will see exactly what we will see for grading.
 
 ---
 
